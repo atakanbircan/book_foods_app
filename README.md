@@ -10,8 +10,11 @@
 |   Glide        | 4.15.1 | 
 |   Retrofit     | 2.9.0  |
 |   Room         | 2.5.1  |
-|  Navigation    | 2.5.3  |
-|  Preference    | 1.2.0  |
+|   Navigation    | 2.5.3 |
+|   Preference    | 1.2.0 |
+|   rxJava        | 2.2.21|
+|   Coroutines    | 1.6.4 |
+|   Converter Gson| 2.9.0 |
 
 
 | Fotoğraf 1 | Fotoğraf 2 | Fotoğraf 3 |
